@@ -1,0 +1,17 @@
+C:\Users\AMED\Desktop\Aptitus\Aptitus\bin\Debug\Aptitus.exe.config
+C:\Users\AMED\Desktop\Aptitus\Aptitus\bin\Debug\Aptitus.exe
+C:\Users\AMED\Desktop\Aptitus\Aptitus\bin\Debug\Aptitus.pdb
+C:\Users\AMED\Desktop\Aptitus\Aptitus\obj\Debug\Aptitus.csprojResolveAssemblyReference.cache
+C:\Users\AMED\Desktop\Aptitus\Aptitus\obj\Debug\Aptitus.Form1.resources
+C:\Users\AMED\Desktop\Aptitus\Aptitus\obj\Debug\Aptitus.Properties.Resources.resources
+C:\Users\AMED\Desktop\Aptitus\Aptitus\obj\Debug\Aptitus.csproj.GenerateResource.Cache
+C:\Users\AMED\Desktop\Aptitus\Aptitus\obj\Debug\Aptitus.exe
+C:\Users\AMED\Desktop\Aptitus\Aptitus\obj\Debug\Aptitus.pdb
+C:\Users\AMED\Desktop\Aptitus\Aptitus\obj\Debug\Aptitus.Agregar_Empresa.resources
+C:\Users\AMED\Desktop\Aptitus\Aptitus\obj\Debug\Aptitus.Agregar_Postulante.resources
+C:\Users\AMED\Desktop\Aptitus\Aptitus\obj\Debug\Aptitus.Agregaranuncio.resources
+C:\Users\AMED\Desktop\Aptitus\Aptitus\obj\Debug\Aptitus.Ofertas.resources
+C:\Users\AMED\Desktop\Aptitus\Aptitus\obj\Debug\Aptitus.IniciarsesionPostulante.resources
+C:\Users\AMED\Desktop\Aptitus\Aptitus\obj\Debug\Aptitus.InterfazPostulante.resources
+C:\Users\AMED\Desktop\Aptitus\Aptitus\obj\Debug\Aptitus.Iniciarsesionempresa.resources
+C:\Users\AMED\Desktop\Aptitus\Aptitus\obj\Debug\Aptitus.InterfazEmpresa.resources
